@@ -1,0 +1,30 @@
+{
+  "brand": "Craic Mountain",
+  "eyebrow": "WELCOME TO CRAIC MOUNTAIN",
+  "heroLine1": "YOUR SERVER.",
+  "heroLine2": "YOUR STORY.",
+  "heroDescription": "Build your character, meet the community and create stories worth remembering. Craic Mountain brings Irish-inspired roleplay, active departments and a strong community atmosphere together in one place.",
+  "announcement": "Welcome to Craic Mountain! Join our community and get involved.",
+  "discordInvite": "",
+  "rules": [
+    {"title":"Respect everyone","description":"No harassment, hate speech, discrimination or bullying. Treat players and staff fairly."},
+    {"title":"Stay in character","description":"Use in-character communication during scenes. Keep out-of-character disputes out of active roleplay."},
+    {"title":"No metagaming","description":"Do not use information your character has not learned through roleplay."},
+    {"title":"No powergaming","description":"Allow others a fair chance to respond. Do not force actions or unrealistic outcomes on other players."},
+    {"title":"Value your life","description":"Respond realistically to dangerous situations and allow scenes to unfold naturally."},
+    {"title":"Follow staff guidance","description":"Use the appropriate support channel for issues and appeal decisions respectfully."}
+  ],
+  "departments": [
+    {"icon":"🚔","title":"Garda Response","description":"Protect the community and respond to incidents through realistic, team-based scenarios."},
+    {"icon":"🚑","title":"Medical Services","description":"Deliver first aid and emergency care through immersive medical roleplay."},
+    {"icon":"🚒","title":"Fire & Rescue","description":"Take on rescues, emergencies, and teamwork under pressure."},
+    {"icon":"🚗","title":"Civilian Life","description":"Build businesses, meet people and create your own story."},
+    {"icon":"🔧","title":"Mechanics","description":"Keep the city moving through repairs and vehicle services."},
+    {"icon":"📡","title":"Dispatch","description":"Coordinate communications and incident responses."}
+  ],
+  "events": [
+    {"title":"Community Meet & Greet","date":"Coming soon","description":"Meet other members, have the craic and learn how to get started."},
+    {"title":"Open Recruitment Night","date":"Coming soon","description":"Discover departments and speak with recruitment teams."},
+    {"title":"Community Convoy Night","date":"Coming soon","description":"Join a casual evening of community-led stories."}
+  ]
+}

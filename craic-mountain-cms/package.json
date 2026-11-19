@@ -1,0 +1,8 @@
+{
+  "name": "craic-mountain-cms",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Craic Mountain website and password-protected editing dashboard",
+  "scripts": {"start":"node server.js"},
+  "engines": {"node":">=20"}
+}
